@@ -87,11 +87,30 @@ const developer = {
 <p><a href="https://portfolioivanrequena.netlify.app/proyectos.html"><img src="https://img.shields.io/badge/VÍDEO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VÍDEO"/></a></p>
 <ul align="left"><li>Backend: Python + API REST + OAuth 2.0</li><li>Base de datos: SQLite</li><li>Frontend: HTML5, JS, Bootstrap 5</li><li>Extras: Reservas en tiempo real, modo edición</li></ul>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top" align="center">
+<h3>Yo-kai Watch Fan 👻</h3>
+<p><b>Web de fans de Yo-kai Watch</b></p>
+<img src="assets/projects/yokai.png" width="320" alt="Yo-kai Watch Fan"/>
+<p><a href="https://github.com/IvanRequenaPuig/Yo-kai-Watch-Bootstrap"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://yokaiwebfan.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
+<ul align="left"><li>Frontend: HTML5, CSS3, JavaScript</li><li>Estilos: Bootstrap</li><li>Deploy: Netlify</li></ul>
+</td>
 </tr>
 </table>
 
 > 🎬 Los proyectos **EliteDrive** y **Peluquería Iván** son aplicaciones completas con base de datos y no tienen enlace público: puedes ver el vídeo en mi [portfolio](https://portfolioivanrequena.netlify.app/proyectos.html).
+
+<div align="center"><img src="assets/line.svg" width="100%" alt=""/></div>
+
+## 💼 ¿Por qué trabajar conmigo?
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top"><img src="assets/icons/code.svg" width="80" alt=""/><h4>Código Limpio</h4><sub>Escribo código mantenible y escalable siguiendo las mejores prácticas</sub></td>
+<td width="25%" align="center" valign="top"><img src="assets/icons/learn.svg" width="80" alt=""/><h4>Aprendizaje Continuo</h4><sub>Siempre explorando nuevas tecnologías y metodologías</sub></td>
+<td width="25%" align="center" valign="top"><img src="assets/icons/team.svg" width="80" alt=""/><h4>Trabajo en Equipo</h4><sub>Colaborativo, comunicativo y orientado a resultados</sub></td>
+<td width="25%" align="center" valign="top"><img src="assets/icons/rocket.svg" width="80" alt=""/><h4>Proyectos Completos</h4><sub>De la idea al deployment, entrego soluciones funcionales</sub></td>
+</tr>
+</table>
 
 <div align="center"><img src="assets/line.svg" width="100%" alt=""/></div>
 
@@ -100,6 +119,13 @@ const developer = {
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=IvanRequenaPuig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRequenaPuig&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes"/>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanRequenaPuig/IvanRequenaPuig/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IvanRequenaPuig/IvanRequenaPuig/output/github-snake.svg" width="100%">
+</picture>
 </div>
 
 ## 💬 Hablemos
@@ -111,5 +137,13 @@ const developer = {
 <a href="https://portfolioivanrequena.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
 
 <img src="assets/line.svg" width="100%" alt=""/>
+
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanRequenaPuig/IvanRequenaPuig/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/IvanRequenaPuig/IvanRequenaPuig/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+</div>
 
 </div>
