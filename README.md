@@ -114,6 +114,22 @@ const developer = {
 
 <div align="center"><img src="assets/line.svg" width="100%" alt=""/></div>
 
+## 🧭 Mi trayectoria
+
+<div align="center">
+<img src="assets/timeline.svg" width="100%" alt="Línea de tiempo: ESO, SMR, DAM, DAW y experiencia como freelance"/>
+</div>
+
+<div align="center"><img src="assets/line.svg" width="100%" alt=""/></div>
+
+## ⚡ Ahora mismo
+
+<div align="center">
+<img src="assets/now.svg" width="100%" alt="Ahora mismo: cursando DAW, aprendiendo Laravel, Vue, Docker y Three.js"/>
+</div>
+
+<div align="center"><img src="assets/line.svg" width="100%" alt=""/></div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -146,4 +162,8 @@ const developer = {
 </picture>
 </div>
 
+</div>
+
+<div align="center">
+<img src="assets/footer.svg" width="100%" alt="Gracias por pasarte por aquí"/>
 </div>
