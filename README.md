@@ -37,14 +37,14 @@ const developer = {
 <p><b>Web de fans con mar 3D que cambia del día a la tormenta</b></p>
 <img src="assets/projects/piratas.jpg" width="320" alt="Piratas del Caribe 🏴‍☠️"/>
 <p><a href="https://github.com/IvanRequenaPuig/PiratasDelCaribe"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://piratasdelcaribeweb.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
-<ul align="left"><li>Frontend: HTML5, CSS3, JavaScript</li><li>3D: Three.js + Web Audio API</li><li>Deploy: Netlify</li></ul>
+<ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, CSS3, JavaScript</li><li>🎮 <b>3D:</b> Three.js + Web Audio API</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
 </td>
 <td width="50%" valign="top" align="center">
 <h3>Inmobiliaria Requena 🏡</h3>
 <p><b>Web corporativa con filtros, fichas y PDF</b></p>
 <img src="assets/projects/inmobiliaria.jpg" width="320" alt="Inmobiliaria Requena 🏡"/>
 <p><a href="https://github.com/IvanRequenaPuig/InmobiliariaIvan"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://inmobiliariarequena.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
-<ul align="left"><li>Frontend: HTML5, JavaScript</li><li>Estilos: Bootstrap 5</li><li>Extras: Web Share API, mapas, exportar a PDF</li><li>Deploy: Netlify</li></ul>
+<ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, JavaScript</li><li>🎨 <b>Estilos:</b> Bootstrap 5</li><li>✨ <b>Extras:</b> Web Share API, mapas, exportar a PDF</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
 </td>
 </tr>
 <tr>
@@ -53,14 +53,14 @@ const developer = {
 <p><b>Landing inspirada en Tesla con scroll-snap</b></p>
 <img src="assets/projects/tesla.jpg" width="320" alt="Tesla Landing ⚡"/>
 <p><a href="https://github.com/IvanRequenaPuig/TeslaAstro"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://teslalandingweb.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
-<ul align="left"><li>Framework: Astro + TypeScript</li><li>Estilos: CSS3 + animaciones</li><li>Extras: Vídeo hero, menú accesible</li><li>Deploy: Netlify</li></ul>
+<ul align="left"><li>🧩 <b>Framework:</b> Astro + TypeScript</li><li>🎨 <b>Estilos:</b> CSS3 + animaciones</li><li>✨ <b>Extras:</b> Vídeo hero, menú accesible</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
 </td>
 <td width="50%" valign="top" align="center">
 <h3>Marvel Web Fan 🦸</h3>
 <p><b>Archivo interactivo del UCM en ES / EN</b></p>
 <img src="assets/projects/marvel.jpg" width="320" alt="Marvel Web Fan 🦸"/>
 <p><a href="https://github.com/IvanRequenaPuig/MarvelFan"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://marvelwebfan.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
-<ul align="left"><li>Frontend: HTML5, JavaScript</li><li>Estilos: Bootstrap 5</li><li>Extras: Timeline, quiz, minijuegos, 18 fichas</li><li>Deploy: Netlify</li></ul>
+<ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, JavaScript</li><li>🎨 <b>Estilos:</b> Bootstrap 5</li><li>✨ <b>Extras:</b> Timeline, quiz, minijuegos, 18 fichas</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
 </td>
 </tr>
 <tr>
@@ -69,14 +69,14 @@ const developer = {
 <p><b>Enciclopedia interactiva de cine de terror</b></p>
 <img src="assets/projects/terror.jpg" width="320" alt="Terror Web Fan 🩸"/>
 <p><a href="https://github.com/IvanRequenaPuig/TerrorWeb"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://terrorwebfan.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
-<ul align="left"><li>Frontend: HTML5, JavaScript</li><li>Estilos: Bootstrap + Tailwind CSS</li><li>Extras: Catálogos con filtros, carrusel 3D</li><li>Deploy: Netlify</li></ul>
+<ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, JavaScript</li><li>🎨 <b>Estilos:</b> Bootstrap + Tailwind CSS</li><li>✨ <b>Extras:</b> Catálogos con filtros, carrusel 3D</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
 </td>
 <td width="50%" valign="top" align="center">
 <h3>EliteDrive 🚗</h3>
 <p><b>Alquiler de coches de alta gama con panel admin</b></p>
 <img src="assets/projects/elite.jpg" width="320" alt="EliteDrive 🚗"/>
 <p><a href="https://github.com/IvanRequenaPuig/Elite-Drive"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://portfolioivanrequena.netlify.app/proyectos.html"><img src="https://img.shields.io/badge/VÍDEO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VÍDEO"/></a></p>
-<ul align="left"><li>Frontend: Vue 3 + Pinia + Vite</li><li>Backend: Laravel 12 (PHP 8.2) API</li><li>Base de datos: PostgreSQL (Supabase)</li><li>Extras: Reservas por horas, facturas PDF, Docker</li></ul>
+<ul align="left"><li>🖥️ <b>Frontend:</b> Vue 3 + Pinia + Vite</li><li>⚙️ <b>Backend:</b> Laravel 12 (PHP 8.2) API</li><li>🗄️ <b>Base de datos:</b> PostgreSQL (Supabase)</li><li>✨ <b>Extras:</b> Reservas por horas, facturas PDF, Docker</li></ul>
 </td>
 </tr>
 <tr>
@@ -85,14 +85,14 @@ const developer = {
 <p><b>Barbería con reservas, pagos y panel admin</b></p>
 <img src="assets/projects/barberia.jpg" width="320" alt="Peluquería Iván 💈"/>
 <p><a href="https://portfolioivanrequena.netlify.app/proyectos.html"><img src="https://img.shields.io/badge/VÍDEO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VÍDEO"/></a></p>
-<ul align="left"><li>Backend: Python + API REST + OAuth 2.0</li><li>Base de datos: SQLite</li><li>Frontend: HTML5, JS, Bootstrap 5</li><li>Extras: Reservas en tiempo real, modo edición</li></ul>
+<ul align="left"><li>⚙️ <b>Backend:</b> Python + API REST + OAuth 2.0</li><li>🗄️ <b>Base de datos:</b> SQLite</li><li>🖥️ <b>Frontend:</b> HTML5, JS, Bootstrap 5</li><li>✨ <b>Extras:</b> Reservas en tiempo real, modo edición</li></ul>
 </td>
 <td width="50%" valign="top" align="center">
 <h3>Yo-kai Watch Fan 👻</h3>
 <p><b>Web de fans de Yo-kai Watch</b></p>
 <img src="assets/projects/yokai.png" width="320" alt="Yo-kai Watch Fan"/>
 <p><a href="https://github.com/IvanRequenaPuig/Yo-kai-Watch-Bootstrap"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://yokaiwebfan.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
-<ul align="left"><li>Frontend: HTML5, CSS3, JavaScript</li><li>Estilos: Bootstrap</li><li>Deploy: Netlify</li></ul>
+<ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, CSS3, JavaScript</li><li>🎨 <b>Estilos:</b> Bootstrap</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
 </td>
 </tr>
 </table>
@@ -117,8 +117,8 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IvanRequenaPuig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRequenaPuig&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes"/>
+<img src="assets/stats.svg" width="48%" alt="GitHub Stats"/>
+<img src="assets/projects/lenguajes.png" width="48%" alt="Top lenguajes de programación"/>
 </div>
 
 <div align="center">

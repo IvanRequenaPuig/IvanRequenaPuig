@@ -13,12 +13,16 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
+      - name: Crear carpeta dist
+        run: mkdir -p dist
+
       - name: Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -27,8 +31,13 @@ jobs:
 
       - name: Pacman
         uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ver archivos generados
+        run: ls -la dist
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v3.1.0
