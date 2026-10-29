@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#38bdf8"/>
+<animate attributeName="x1" values="0;1;0" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<style>
+.t{font:700 44px 'Courier New',monospace;fill:url(#g);text-anchor:middle}
+.s{font:500 18px 'Courier New',monospace;fill:#8b8b9a;text-anchor:middle}
+.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.w{animation:w 3s ease-in-out infinite;transform-origin:450px 55px;display:inline-block}
+@keyframes w{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+</style>
+<g class="w"><text class="t" x="450" y="68">Hola, soy Iván</text></g>
+<text class="s" x="450" y="108">Full Stack Developer<tspan class="c"> ▍</tspan></text>
+</svg>
