@@ -51,7 +51,7 @@ const developer = {
 <td width="50%" valign="top" align="center">
 <h3>Ajedrez ♟️</h3>
 <p><b>Ajedrez contra la CPU con 8 niveles y modo 2 jugadores</b></p>
-<img src="assets/projects/ajedrez.png" width="320" alt="Ajedrez ♟️"/>
+<img src="assets/projects/juego.png" width="320" alt="Ajedrez ♟️"/>
 <p><a href="https://github.com/IvanRequenaPuig/Ajedrez"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://ivanrequenapuig.github.io/Ajedrez/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
 <ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, CSS3, JavaScript</li><li>🧩 <b>Motor:</b> Reglas completas e IA minimax con poda alfa-beta</li><li>✨ <b>Extras:</b> Pistas, deshacer, estadísticas y diseño responsive</li><li>🚀 <b>Deploy:</b> GitHub Pages</li></ul>
 </td>
