@@ -191,12 +191,10 @@ const developer = {
 </picture>
 </div>
 
-## 🤝 Trabajemos juntos
+## 🏢 Empresas con las que he trabajado
 
 <div align="center">
-<img src="assets/available.svg" width="100%" alt="Disponible para nuevos proyectos: webs a medida, apps full stack, WordPress y SEO, videojuegos web"/>
-
-📫 <a href="mailto:ivanrequenapuig@gmail.com">ivanrequenapuig@gmail.com</a> · 🌐 <a href="https://portfolioivanrequena.netlify.app/">portfolioivanrequena.netlify.app</a>
+<img src="assets/companies.svg" width="100%" alt="Empresas con las que he trabajado: Serrano, Inmobiliaria Margamora, Hygienalia, Autos trinitario, Igtel, SheilaValero, THC Nutrients, Pizza Roma y Agronut"/>
 </div>
 
 <div align="center"><img src="assets/line.svg" width="100%" alt=""/></div>
