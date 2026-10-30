@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#38bdf8"/><animate attributeName="x1" values="0;1;0" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<style>
+.t{font:700 46px 'Courier New',monospace;fill:url(#g);text-anchor:middle}
+.s{font:600 20px 'Courier New',monospace;fill:#8b8b9a;text-anchor:middle;opacity:0;animation:rr 18s infinite}
+@keyframes rr{0%{opacity:0;transform:translateY(10px)}3.4%,13.4%{opacity:1;transform:none}16.7%,100%{opacity:0;transform:translateY(-10px)}}
+.w{animation:w 3s ease-in-out infinite}@keyframes w{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+.tt{animation:tt 6s ease-in-out infinite}@keyframes tt{0%,70%{opacity:1}85%{opacity:.12}100%{opacity:1}}
+.u{animation:u 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes u{0%,100%{transform:scaleX(.25);opacity:.4}50%{transform:scaleX(1);opacity:1}}
+.sp{animation:tw 2.4s ease-in-out infinite}@keyframes tw{50%{opacity:.1}}
+</style>
+<g fill="#a78bfa"><circle class="sp" cx="170" cy="40" r="2.5"/><circle class="sp" cx="745" cy="32" r="2" style="animation-delay:-.8s"/><circle class="sp" cx="215" cy="120" r="1.8" style="animation-delay:-1.5s"/><circle class="sp" cx="700" cy="118" r="2.5" style="animation-delay:-2s"/></g>
+<g class="w"><g class="tt"><text class="t" x="450" y="66">Hola, soy Iván</text></g></g>
+<rect class="u" x="330" y="82" width="240" height="3" rx="1.5" fill="url(#g)"/>
+<text class="s" x="450" y="118" style="animation-delay:0s">Full Stack Developer</text>
+<text class="s" x="450" y="118" style="animation-delay:3s">Frontend · Backend · Bases de datos</text>
+<text class="s" x="450" y="118" style="animation-delay:6s">Creador de webs y videojuegos</text>
+<text class="s" x="450" y="118" style="animation-delay:9s">Creador de aplicaciones</text>
+<text class="s" x="450" y="118" style="animation-delay:12s">WordPress y SEO</text>
+<text class="s" x="450" y="118" style="animation-delay:15s">Siempre aprendiendo</text>
+</svg>

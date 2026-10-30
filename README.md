@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hola, soy Iván - Full Stack Developer" width="100%"/>
+<img src="assets/header-v2.svg" alt="Hola, soy Iván - Full Stack Developer" width="100%"/>
 
 </div>
 
