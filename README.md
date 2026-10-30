@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/iv%C3%A1n-requena-puig/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ivanrequenapuig@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://portfolioivanrequena.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
+
+</div>
+
 ## 👾 Sobre mí 👾
 
 ```js
@@ -51,7 +59,7 @@ const developer = {
 <td width="50%" valign="top" align="center">
 <h3>Ajedrez ♟️</h3>
 <p><b>Ajedrez contra la CPU con 8 niveles y modo 2 jugadores</b></p>
-<img src="assets/projects/juego.png" width="320" alt="Ajedrez ♟️"/>
+<img src="assets/projects/ajedrez.png" width="320" alt="Ajedrez ♟️"/>
 <p><a href="https://github.com/IvanRequenaPuig/Ajedrez"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://ivanrequenapuig.github.io/Ajedrez/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
 <ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, CSS3, JavaScript</li><li>🧩 <b>Motor:</b> Reglas completas e IA minimax con poda alfa-beta</li><li>✨ <b>Extras:</b> Pistas, deshacer, estadísticas y diseño responsive</li><li>🚀 <b>Deploy:</b> GitHub Pages</li></ul>
 </td>
@@ -183,24 +191,21 @@ const developer = {
 </picture>
 </div>
 
-## 💬 Hablemos
+## 🤝 Trabajemos juntos
 
 <div align="center">
+<img src="assets/available.svg" width="100%" alt="Disponible para nuevos proyectos: webs a medida, apps full stack, WordPress y SEO, videojuegos web"/>
 
-<a href="https://www.linkedin.com/in/iv%C3%A1n-requena-puig/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ivanrequenapuig@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://portfolioivanrequena.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
+📫 <a href="mailto:ivanrequenapuig@gmail.com">ivanrequenapuig@gmail.com</a> · 🌐 <a href="https://portfolioivanrequena.netlify.app/">portfolioivanrequena.netlify.app</a>
+</div>
 
-<img src="assets/line.svg" width="100%" alt=""/>
-
+<div align="center"><img src="assets/line.svg" width="100%" alt=""/></div>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanRequenaPuig/IvanRequenaPuig/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/IvanRequenaPuig/IvanRequenaPuig/output/pacman-contribution-graph.svg" width="100%">
 </picture>
-</div>
-
 </div>
 
 <div align="center">
