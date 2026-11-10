@@ -128,6 +128,22 @@ const developer = {
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
+<h3>Disney Web Fan 🏰</h3>
+<p><b>Clon de Disneyland Paris con hoteles, entradas y mapas</b></p>
+<img src="assets/projects/disney.png" width="320" alt="Disney Web Fan 🏰"/>
+<p><a href="https://github.com/IvanRequenaPuig/Disney"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://disneywebfan.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
+<ul align="left"><li>🖥️ <b>Frontend:</b> React + Vite + React Router</li><li>🎨 <b>Estilos:</b> Bootstrap 5 + Tailwind CSS</li><li>✨ <b>Extras:</b> Más de 10 páginas, calendario de precios, mapas y buscador</li><li>✨ <b>Extras:</b> Interactividad con jQuery</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
+</td>
+<td width="50%" valign="top" align="center">
+<h3>Star Wars Web ⭐</h3>
+<p><b>Web de fans de Star Wars con cronología y buscador</b></p>
+<img src="assets/projects/starwars.png" width="320" alt="Star Wars Web ⭐"/>
+<p><a href="https://github.com/IvanRequenaPuig/StarWars"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://ivanrequenapuig.github.io/StarWars/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
+<ul align="left"><li>🖥️ <b>Frontend:</b> HTML5, CSS3, JavaScript (sin frameworks)</li><li>✨ <b>Extras:</b> 8 páginas, cronología por eras y modo claro/oscuro</li><li>✨ <b>Extras:</b> Intro cinematográfica, cuenta atrás y aviso de cookies</li><li>🚀 <b>Deploy:</b> GitHub Pages</li></ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 <h3>Peluquería Iván 💈</h3>
 <p><b>Barbería con reservas, pagos y panel admin</b></p>
 <img src="assets/projects/barberia.jpg" width="320" alt="Peluquería Iván 💈"/>
