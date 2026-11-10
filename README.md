@@ -130,7 +130,7 @@ const developer = {
 <td width="50%" valign="top" align="center">
 <h3>Disney Web Fan 🏰</h3>
 <p><b>Clon de Disneyland Paris con hoteles, entradas y mapas</b></p>
-<img src="assets/projects/disney2.png" width="320" alt="Disney Web Fan 🏰"/>
+<img src="assets/projects/disney3.png" width="320" alt="Disney Web Fan 🏰"/>
 <p><a href="https://github.com/IvanRequenaPuig/Disney"><img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="CÓDIGO"/></a><a href="https://disneywebfan.netlify.app/"><img src="https://img.shields.io/badge/LIVE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LIVE"/></a></p>
 <ul align="left"><li>🖥️ <b>Frontend:</b> React + Vite + React Router</li><li>🎨 <b>Estilos:</b> Bootstrap 5 + Tailwind CSS</li><li>✨ <b>Extras:</b> Más de 10 páginas, calendario de precios, mapas y buscador</li><li>✨ <b>Extras:</b> Interactividad con jQuery</li><li>🚀 <b>Deploy:</b> Netlify</li></ul>
 </td>
